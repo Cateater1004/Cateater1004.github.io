@@ -35,12 +35,12 @@ weight = 30
 
 [params.profileMode]
 enabled = true
-title = "Enter the Content"
-subtitle = "Enter the Content"
-imageUrl = "img/name.jpg"
+title = "Cateater1004"
+subtitle = "Uh..."
+imageUrl = "https://mail.google.com/mail/u/0?ui=2&ik=25748bb3b6&attid=0.1.1&permmsgid=msg-f:1770464750671689903&th=1891f44f7722f8af&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ8QkN2u5JsmdhwW6P8lrPCwbLtL6OQEXmMxeavuMYhm4aaYU8Qg5QtIX9YHEobuo9vy5BT1GI7IPJiIB2fp-JldE3Wqs_s6HMhIwEJIEjWSfmgfjjMD-84o4L8&disp=emb/Cateater1004.jpg"
 imageWidth = 120
 imageHeight = 120
-imageTitle = "Enter the content"
+imageTitle = "Cateater1004"
 
 [[params.profileMode.buttons]]
 name = "Blog"
