@@ -52,7 +52,7 @@ url = "/categories/"
 
 [[params.socialIcons]]
 name = "github"
-url = "your github profile url"
+url = "https://github.com/Cateater1004"
 #...more
 
 [params] 
